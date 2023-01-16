@@ -16,6 +16,7 @@ Two NPM packages are specified for this application: Express and Mongoose. These
 
 ## Usage
 There are four main components of this API: Users, Reactions, Thoughts, and Friends. Each of these is designed to work similar to most social media platforms: friends can be added or removed; thoughts can be added, edited, or removed; reactions to thoughts can be created or deleted. 
+![Screenshot 2023-01-15 195110](https://user-images.githubusercontent.com/108553499/212588460-0167a364-3408-4591-8436-f4b847dc1f89.jpg)
 
 
 ## Video Demonstration
